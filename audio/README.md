@@ -1,14 +1,15 @@
-# SAyHello v1.0
-## Author: github.com/thelinuxchoice/sayhello
-## Twitter: twitter.com/linux_choice
+# A U D I O  v1.0
+## Author: github.com/kalirootboy/audio
+## Twitter: twitter.com/kalirootboy
 
-Capturing audio (.wav) from target using a link
+Capturing audio (.mp3) from target using a link
 
-![hello](https://user-images.githubusercontent.com/34893261/66277580-c7f4b980-e876-11e9-9d05-e3170ad9278e.png)
+![hello](https://cdn.discordapp.com/attachments/712057080500191263/715941630645108801/bfg.png)
+![hello](https://cdn.discordapp.com/attachments/712057080500191263/715941648391208960/tbrg.jpg)
 
 ### How it works?
 
-After the user grants microphone permissions, a website redirect button of your choice is released to distract the target while small audio files (about 4 seconds in wav format) are sent to the attacker.
+After the user grants microphone permissions, a website redirect button of your choice is released to distract the target while small audio files (about 4 seconds in mp3 format) are sent to the attacker.
 It uses Recorderjs, plugin for recording/exporting the output of Web Audio API nodes (https://github.com/mattdiamond/Recorderjs)
 
 ### Features:
@@ -21,14 +22,7 @@ Usage of SayHello for attacking targets without prior mutual consent is illegal.
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/sayhello
-cd sayhello
-bash sayhello.sh
+git clone https://github.com/kalirootboy/audio
+cd audio
+bash audio.sh
 ```
-
-### Donate!
-Support the authors:
-### Paypal:
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
-### LiberaPay:
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
